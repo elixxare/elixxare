@@ -39,16 +39,7 @@ PostgreSQL, MySQL, SQLite
 Blender, Adobe Illustrator, Photoshop, Procreate
 
 ---
-
-## 🍀 Highlights
-
-- **AWS SDE Intern** — Built EC2-based database migration engines and real-time CDC pipelines with major performance and memory gains  
-- **NLP Engineer Intern** — Benchmarked and fine-tuned transformer models (BERT, RoBERTa, T5) on 28M+ reviews  
-- **Head Teaching Assistant (CS)** — Lead TA for Discrete Math & Theory II, supporting 300+ students  
-- **Artist** — National Gold Medal, Scholastic Art & Writing Awards
-
----
-
+ෆ*｡◌ ⊹ ✧
 ## 🌱 Currently
 
 - Having fun learning, building, and exploring new areas of interest in hackathons with friends!

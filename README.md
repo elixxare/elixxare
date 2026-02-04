@@ -6,7 +6,7 @@
 
 ## 𓇼⋆ ˚꩜ About Me  ｡ ⋆୨୧˚ 
 
-My name is Elina Liu - an undergraduate at the University of Virginia studying Computer Science and Engineering Business. I’m interested in building scalable systems and intelligent tools that make complex workflows simpler, especially at the intersection of machine learning, data infrastructure, and AI-powered applications. 
+I'm Elina Liu, an undergraduate at the University of Virginia studying Computer Science and Engineering Business. I’m interested in building scalable systems and intelligent tools that make complex workflows simpler, especially at the intersection of machine learning, data infrastructure, and AI-powered applications. 
 
 I’m drawn to tech because I love problem-solving and building things that have a real, positive impact on how people live and work.
 

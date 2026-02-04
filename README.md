@@ -8,7 +8,7 @@
 
 My name is Elina Liu - an undergraduate at the University of Virginia studying Computer Science and Engineering Business. I’m interested in building scalable systems and intelligent tools that make complex workflows simpler, especially at the intersection of machine learning, data infrastructure, and AI-powered applications. 
 
-I’m drawn to tech because I love problem-solving and building things that have a real, positive impact on how people live and work!
+I’m drawn to tech because I love problem-solving and building things that have a real, positive impact on how people live and work.
 
 I previously interned as a **Software Development Engineer at AWS**, where I worked on large-scale database migration and analytics infrastructure, contributing to real-time data pipelines and Zero-ETL initiatives. I also have experience in **NLP research**, applying transformer-based models to large-scale sentiment analysis in an industry startup setting.
 

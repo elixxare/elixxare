@@ -2,6 +2,7 @@
 
 **CS & Engineering Business @ UVA · Prev Intern @ AWS · Freelance Artist**
 
+![Alt text](elixxare/icon.png)
 ---
 
 ## 𓇼⋆ ˚꩜ About Me  ｡ ⋆୨୧˚ 

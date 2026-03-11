@@ -1,8 +1,8 @@
 # 🌟 Hi, I'm Elina! 🌟
 
 **CS & Engineering Business @ UVA · Prev Intern @ AWS · Freelance Artist**
+<img src="icon.png" width="50%" />
 
-![Alt text](icon.png)
 ---
 
 ## 𓇼⋆ ˚꩜ About Me  ｡ ⋆୨୧˚ 
